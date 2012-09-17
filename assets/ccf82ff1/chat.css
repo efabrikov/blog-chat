@@ -1,0 +1,15 @@
+/* 
+    Document   : chat
+    Created on : 17 вер 2012, 19:30:11
+    Author     : Eugene
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#chat_block {     
+    right: 20px;
+    overflow: hidden;
+    height: 100px;
+    
+}
+

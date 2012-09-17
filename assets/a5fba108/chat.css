@@ -1,0 +1,22 @@
+/* 
+    Document   : chat
+    Created on : 17 вер 2012, 19:30:11
+    Author     : Eugene
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#chat_block {         
+    overflow: hidden;
+    height: 310px;
+    width: 0px;
+    padding-left: 25px;
+    background: white url(right.jpg) scroll no-repeat left top ;
+    /*border: 2px solid #298DCD;*/
+    
+}
+
+#chatLines {
+    overflow: hidden;    
+}
+
