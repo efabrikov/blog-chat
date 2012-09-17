@@ -10,9 +10,10 @@ user2 / demo
 
 PHP Version 5.3.8 (mysql,pdo_mysql)
 MySQL	
-    Версия сервера: 5.5.16
-    Версия протокола: 10
-    Пользователь: root@localhost
-    MySQL-кодировка: UTF-8 Unicode (utf8)
+    Р’РµСЂСЃРёСЏ СЃРµСЂРІРµСЂР°: 5.5.16
+    Р’РµСЂСЃРёСЏ РїСЂРѕС‚РѕРєРѕР»Р°: 10
+    РџРѕР»СЊР·РѕРІР°С‚РµР»СЊ: root@localhost
+    MySQL-РєРѕРґРёСЂРѕРІРєР°: UTF-8 Unicode (utf8)
 Apache/2.2.21 (Win32) mod_ssl/2.2.21 OpenSSL/1.0.0e PHP/5.3.8 mod_perl/2.0.4 Perl/v5.10.1 ((mod_rewrite))
-    Версия MySQL-клиента: mysqlnd 5.0.8-dev - 20102224 - $Revision: 310735 $    
+    Р’РµСЂСЃРёСЏ MySQL-РєР»РёРµРЅС‚Р°: mysqlnd 5.0.8-dev - 20102224 - $Revision: 310735 $    
+    
